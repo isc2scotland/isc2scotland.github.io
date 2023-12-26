@@ -8,9 +8,9 @@ Welcome to the ISC2 Scotland Chapter website!
 
 Key Officers:
 
-President
-Vice President
-Membership Chair
+President <br />
 <br />
+Vice President <br />
 <br />
+Membership Chair <br />
 <br />
