@@ -15,5 +15,5 @@ To expand the Chapter network across EMEA, support like-minded professionals acr
 We have an extremely exciting period ahead of us, full of opportunities to make a real impact and drive change for the benefit of all; we would love to have you join us on the journey and we embrace any and all input you would like to have.
 
 
-Manish Shah CISSP
+
 ISC2 Scotland Chapter President
