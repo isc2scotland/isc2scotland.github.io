@@ -4,13 +4,15 @@ title: Team
 permalink: /Team/
 ---
 
-Welcome to the ISC2 Scotland Chapter website!
+# ISC2 Scotland Chapter
 
-Key Officers:
+## Key Officers
 
-President <br />
+**President** <br />
 <br />
-Vice President <br />
+**Vice President** <br />
 <br />
-Membership Chair <br />
+**Membership Chair** <br />
+<br />
+**Secretary** <br />
 <br />
