@@ -3,10 +3,14 @@
 
 @import "minima";
 
-.site-title::before {
-	content: url("/logo.png");
-	display: inline-block;
-	position: relative;
-	width: 37px;
-	top: 5px;
+.site-title {
+  line-height: 1.25;
+}
+
+.site-header {
+  padding: 20px 0;
+}
+
+.site-nav {
+  top: auto;
 }
