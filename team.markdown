@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 
+title: Team
 permalink: /Team/
 ---
-## ISC2 Scotland Chapter Team
 
 ### President 
 
