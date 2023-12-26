@@ -14,5 +14,6 @@ To build our initiatives, particularly around securtiy awareness, and address th
 To expand the Chapter network across EMEA, support like-minded professionals across the region to found more Chapters and work closer together for the benefit of the security industry.
 We have an extremely exciting period ahead of us, full of opportunities to make a real impact and drive change for the benefit of all; we would love to have you join us on the journey and we embrace any and all input you would like to have.
 
+
 Manish Shah CISSP
 ISC2 Scotland Chapter President
