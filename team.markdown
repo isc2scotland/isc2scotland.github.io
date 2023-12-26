@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ISC2 Scotland Chapter Team
+title: Team
 permalink: /Team/
 ---
 
-## Key Officers
+## ISC2 Scotland Chapter
 
 ### President 
 
