@@ -10,4 +10,7 @@ Thank you for your interest in our Scotland Chapter.
 Our key focus for the ISC2 Scotland Chapter is:
 
 
+
+
+
 **President, ISC2 Scotland Chapter**
