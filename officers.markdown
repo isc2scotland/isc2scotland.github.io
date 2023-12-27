@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Team
-permalink: /Team/
+title: Officers
+permalink: /Officers/
 ---
 
 ### President 
