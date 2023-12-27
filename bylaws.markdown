@@ -20,7 +20,7 @@ The corporation has entered into a Chapter Affiliation Agreement with ISC2 as of
 2.4  Fiscal Year.  The fiscal year of the corporation shall end on December 31 in each year unless the directors change the fiscal year by.
 
 
-## SECTION 3. Members
+### SECTION 3. Members
  
 3.1. Qualification and Election. The membership shall consist of individuals and non-profit organizations interested in the information security field.  The initial members shall be those persons designated in the Chapter petition at the time of formation.  Thereafter, applicants for membership must have been actively involved in an aspect of information security work for at least one year.   The members annually at their annual meeting may change the criteria for membership, may fix a maximum number of members, and may elect up to the number of members so fixed.
 
@@ -47,7 +47,7 @@ The corporation has entered into a Chapter Affiliation Agreement with ISC2 as of
 3.12. Proxies.  Members may vote by written proxy dated not more than six months before the meeting named, which shall be filed with the recording secretary or other person responsible for recording the proceedings of the meeting.
 
 
-## SECTION 4 Board of Directors
+### SECTION 4 Board of Directors
  
 4.1 Powers.  The affairs of the corporation shall be managed by the directors who shall have and may exercise all the powers of the corporation, except those powers reserved to the members by law or these Bylaws.
 
@@ -72,7 +72,7 @@ The corporation has entered into a Chapter Affiliation Agreement with ISC2 as of
 4.11 Presence Through Communications Equipment. Members of the Board of Directors may participate in a meeting of such board by means of a conference telephone or similar communications equipment by means of which all persons participating in the meeting can hear each other at the same time, and participation by such means shall constitute presence in person at a meeting. 
 
 
-## SECTION 5. Officers and Agents.
+### SECTION 5. Officers and Agents.
 
 5.1. Number and Qualification. The officers of the corporation shall be a president, treasurer, secretary, membership chair, and such other officers, if any, as the directors may determine.  The corporation may also have such agents, if any, as the directors may appoint.  An officer must be in good standing as a member of the corporation and as a member of ISC2.  The secretary shall be a citizen of the UK unless the corporation has a resident agent duly appointed for the purpose of service of process.  If required by the directors, any officer shall give the corporation a bond for the faithful performance of his duties in such amount and with such surety or sureties as shall be satisfactory to the directors.
 
@@ -93,8 +93,9 @@ One-half of the Director positions will stand for election each year. Each Direc
 5.8. Secretary.  The secretary shall have possession of the records of the corporation and of the board of directors.  The recording secretary shall keep minutes of all meetings and be responsible for giving notice of meetings as set forth under these Bylaws.  The secretary shall oversee all correspondence of the corporation and have such other duties as the president deems appropriate.
 
 5.9. Membership Chair.  The membership chair shall assume all duties relating to membership and membership record keeping.  He or she shall also have the responsibility of notifying all candidates for membership of election to membership. 
+
  
-## SECTION 6. Resignations, Removals and Vacancies.
+### SECTION 6. Resignations, Removals and Vacancies.
 
 6.1. Resignations.  Any member, director or officer may resign at any time by delivering his or her resignation in writing to the president, the secretary or to the corporation at its principal office.  Such resignation shall be effective upon receipt unless specified to be effective at some later time.
 
@@ -104,21 +105,24 @@ One-half of the Director positions will stand for election each year. Each Direc
 
 6.4. Vacancies.  Any vacancy in the board of directors, including a vacancy resulting from the enlargement of the board, may be filled by the members or, in the absence of member action to fill a vacancy in the board of directors, by the directors by vote of a majority of the directors then in office.  The directors shall elect a successor if any of the offices of president, treasurer, secretary or membership chair becomes vacant between meetings of the members.  Each such successor shall hold office for the unexpired term and until his successor is chosen and qualified, or in each case until he sooner dies, resigns, is removed, becomes disqualified, or is no longer a member in good standing.  The members and the directors shall have and may exercise all their powers notwithstanding the existence of one or more vacancies in their number. 
 
-## SECTION 7. General
+
+### SECTION 7. General
  
 7.1  Execution of Papers.  Except as the directors may generally or in particular cases authorize the execution thereof in some other manner, all deeds, leases, transfers, contracts, bonds, notes, checks, drafts and other obligations made, accepted or endorsed by the corporation shall be signed by the president or by the treasurer.  Any recordable instrument purporting to affect an interest in real estate, executed in the name of the corporation by the president or a vice president and the treasurer or an assistant treasurer, who may be one and the same person, shall be binding on the corporation in favor of a purchaser or other person relying in good faith on such instrument notwithstanding any inconsistent provisions of the Bylaws, resolutions or votes of the corporation.
+
 7.2  Receipt and Disbursement of Funds.  The board of directors may designate such other officer or officers who in addition to or instead of the president or treasurer shall be authorized to receive and receipt for all moneys due and payable to the corporation from any source whatever, to endorse for deposit checks, drafts, notes, or other negotiable instruments, and to give full discharges and receipts therefor.  Funds of the corporation may be deposited in such bank or banks as the president or board of directors may from time to time designate or with such other corporations, firms, or individuals as the board of directors may from time to time designate.
  
 7.3  Communication.  Written notice or waiver of notice or other communication under these Bylaws may be given by electronic means or written communication.
 
 
-## SECTION 8. Compensation, Conflicts of Interest and Personal Liability
+### SECTION 8. Compensation, Conflicts of Interest and Personal Liability
 
 8.1. Compensation. Members and directors shall not be compensated for serving as such and shall not be precluded from serving the corporation in any other capacity and receiving compensation for any such services; provided, that the same shall not place any tax exemption obtained by the corporation at risk.
 
 8.2. Conflicts of Interest.  The directors and officers of the corporation owe a fiduciary duty to the corporation to act in good faith and in a manner that they reasonably believe to be in the corporation's best interests.  This duty of loyalty requires the corporation's directors and officers to exercise independent judgment on behalf of the corporation, placing the corporation's best interests ahead of personal interests.  In furtherance of this fiduciary responsibility, the corporation shall have and comply with a conflict of interest policy, provided, that such policy shall require directors, officers, and key employees to disclose any personal financial interest in a transaction being considered by the corporation, and that unless the directors determine that such personal financial interest is immaterial, such director, officer, or key employee shall recuse himself or herself from discussion and voting on the matter and shall not be counted for purposes of a quorum (where applicable); provided, further, that until such a policy is formally adopted by the directors, this provision shall serve, and hereby does serve, as the Conflict of Interest Policy of the corporation.  The corporation's Conflict of Interest Policy may, for purposes of consideration by independent directors of matters with respect to which a potential conflict of interest is present, vary the quorum and voting requirements specified in these Bylaws.
 
 8.3 No Personal Liability.  The members, directors and officers of the corporation shall not be liable for any debt, liability, or obligation of the corporation.  All persons, corporations or other entities extending credit to, contracting with, or having any claim against, the corporation for the payment of any such contract or claim, or for the payment of any debt, damages, judgment, or decree, or of any money that may otherwise become due or payable to them from the corporation.
+
 
 ## SECTION 9. Indemnification of Directors, Officers, and Employees
  
@@ -131,4 +135,3 @@ These Bylaws may be amended at any meeting of the members by vote of not less th
   
 
 ## Adopted:  March 31st, 2014
-
