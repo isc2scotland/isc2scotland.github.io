@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-The ISC2 Scotland Chapter’s mission is to bring together a community of Scotland's Information Security Professionals and share knowledge on evolving security threats and drive innovation.
+The ISC2 Scotland Chapter’s mission is to bring together a community of Scotland's Information Security Professionals and share knowledge on evolving security threats and drive innovation.  
+
+Scotland Chapter was founded in 2014 by Ewan McIntyre, James Kwaan, Neil Campbell and Manish Shah among others and was running successfully till 2019. In 2020, due to pandemic chapter became defunct but since June '23 couple of security professionals sat together and started talking with ISC2 to revive the chapter.
 
