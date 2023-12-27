@@ -8,6 +8,8 @@ permalink: /Officers/
 
 ### Vice President  
 
-### Membership Chair  
+### Treasurer  
 
 ### Secretary
+
+### Membership Chair  
