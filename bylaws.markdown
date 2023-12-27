@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Byelaws
+title: Bylaws
 permalink: /Bylaws/
 ---
 
