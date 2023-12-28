@@ -14,15 +14,7 @@ permalink: /Officers/
 
 ### Membership Chair  
 
-
-
-<details>
- <h2>
-  <summary>
-Officers Meeting 
- </summary>
-</h2>
-
+### Officers Meeting 
 Thu, 04 Jan '24 18:00  
 Thu, 21 Dec '23 18:00  
 Thu, 07 Dec '23 18:00  
@@ -36,14 +28,7 @@ Thu, 31 Aug '23 18:00
 Thu, 17 Aug '23 18:00  
 Thu, 03 Aug '23 18:00  
 Thu, 20 Jul '23 18:00  
-</details>
 
-<details>
- <h2>
-  <summary>
-#### Intro Meeting  - All ISC2 Scotland LinkedIn Group Members
- </summary>
-</h2>
-  
+
+#### Intro Meeting  - All ISC2 Scotland LinkedIn Group Members  
 Thu, 6th July 18:00  
-</details>
