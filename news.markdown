@@ -4,4 +4,4 @@ title: News
 permalink: /news/
 ---
 
-[(ISC)² is now ISC2](https://community.isc2.org/t5/Welcome/ISC-is-now-ISC2/td-p/61892){:target="\_blank"}
+[(ISC)² is now ISC2](https://www.isc2.org/Insights/2023/08/cybersecurity-is-evolving-so-are-we){:target="\_blank"}
