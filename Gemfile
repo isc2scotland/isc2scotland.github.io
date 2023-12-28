@@ -8,7 +8,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+gem "minima", "~> 2.5.1"
 gem "github-pages", "~> 228", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -30,14 +30,4 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8.1"
-gem "base64", "~> 0.2.0"
-gem "bigdecimal", "~> 3.1"
-gem "drb", "~> 2.2"
-gem "mutex_m", "~> 0.2.0"
-gem "activesupport", "~> 7.1"
-gem "addressable", "~> 2.8"
-gem "unf_ext", "~> 0.0.9"
-gem "faraday", "~> 2.8"
-gem "typhoeus", "~> 1.4"
-gem "racc", "~> 1.7"
-gem "nokogiri", "~> 1.15"
+
