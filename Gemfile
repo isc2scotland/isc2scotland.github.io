@@ -29,4 +29,15 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8.1"
+gem "base64", "~> 0.2.0"
+gem "bigdecimal", "~> 3.1"
+gem "drb", "~> 2.2"
+gem "mutex_m", "~> 0.2.0"
+gem "activesupport", "~> 7.1"
+gem "addressable", "~> 2.8"
+gem "unf_ext", "~> 0.0.9"
+gem "faraday", "~> 2.8"
+gem "typhoeus", "~> 1.4"
+gem "racc", "~> 1.7"
+gem "nokogiri", "~> 1.15"
