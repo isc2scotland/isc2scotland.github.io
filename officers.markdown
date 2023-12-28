@@ -16,12 +16,10 @@ permalink: /Officers/
 
 
 
-
-
-
-
-
+<details>
+  <summary>
 #### Officers Meeting 
+ </summary>
 Thu, 04 Jan '24 18:00  
 Thu, 21 Dec '23 18:00  
 Thu, 07 Dec '23 18:00  
@@ -34,8 +32,8 @@ Thu, 14 Sep '23 18:00
 Thu, 31 Aug '23 18:00  
 Thu, 17 Aug '23 18:00  
 Thu, 03 Aug '23 18:00  
-Thu, 20 Jul '23 18:00
-
+Thu, 20 Jul '23 18:00  
+</details>
   
 #### Intro Meeting  - All ISC2 Scotland LinkedIn Group Members
 Thu, 6th July 18:00  
