@@ -4,6 +4,6 @@ title: News
 permalink: /news/
 ---
 
-### There are 6 ISC2 Chapters in England.  
+### Latest News  
 
-1. [East of England Chapter](https://www.isc2chapter-eastofengland.co.uk/){:target="\_blank"}  
+[(ISC)2 is now ISC2]{https://community.isc2.org/t5/Welcome/ISC-is-now-ISC2/td-p/61892}  
