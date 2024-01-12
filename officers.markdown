@@ -5,14 +5,18 @@ permalink: /Officers/
 ---
 
 ### President
+[Manish Shah](https://linkedin.com/in/manishcissp){:target="\_blank"}
 
 ### Vice President
-
-### Treasurer
+[James Kwaan](https://linkedin.com/in/james-k-5201384){:target="\_blank"}
 
 ### Secretary
 
 ### Membership Chair
+[Gary Scullion](https://linkedin.com/in/gary-scullion-ism){:target="\_blank"}
+
+### Treasurer
+[Mark Almeida-Cardy](https://linkedin.com/in/mark-ac){:target="\_blank"}
 
 <br />
 <br />
