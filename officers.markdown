@@ -44,9 +44,10 @@ permalink: /Officers/
 
 <br />
 
-### ISC2 Scotland LinkedIn Group Members
+### ISC2 Scotland Members Meetings
 
 <details markdown="1">
 <summary>Dates and Times</summary>
+- Thu, 25 Jan '24 18:00 (Official Announcement)
 - Thu, 6th July '23 18:00 (Intro Meeting)
 </details>
