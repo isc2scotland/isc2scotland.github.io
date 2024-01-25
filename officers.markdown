@@ -27,6 +27,7 @@ permalink: /Officers/
 
 <details markdown="1">
 <summary>Dates and Times</summary>
+- Thu, 25 Jan '24 18:00
 - Thu, 04 Jan '24 18:00
 - Thu, 21 Dec '23 18:00
 - Thu, 07 Dec '23 18:00
@@ -48,6 +49,5 @@ permalink: /Officers/
 
 <details markdown="1">
 <summary>Dates and Times</summary>
-- Thu, 25 Jan '24 18:00 (Official Announcement)
 - Thu, 6th July '23 18:00 (Intro Meeting)
 </details>
