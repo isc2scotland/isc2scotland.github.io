@@ -11,6 +11,7 @@ header_pages:
   - officers.markdown
   - bylaws.markdown
   - news.markdown
+  - events.markdown
   - contact us.markdown
 # Exclude from processing.
 # The following items will not be processed, by default.
