@@ -14,3 +14,125 @@
 .site-nav {
   top: auto;
 }
+
+.page-link {
+  white-space: nowrap; /* Prevents the link text from wrapping into multiple lines */
+}
+
+.responsive-iframe-container {
+  position: relative;
+  width: 100%; /* Full width */
+  /* Remove padding-bottom here if the height of the form is not fixed */
+}
+
+.responsive-iframe-container iframe {
+  position: relative; /* Changed from absolute to relative */
+  width: 100%; /* Full width */
+  height: auto; /* Start with auto height */
+  min-height: 800px; /* Set a minimum height that can fit the form */
+  border: none; /* Remove iframe border */
+}
+
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.iframe-container iframe {
+ border: 0;
+ height: 100%;
+ left: 0;
+ position: absolute;
+ top: 0;
+ width: 100%;
+}
+
+.profile-picture {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.officers-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2em; /* Space between officer entries */
+  justify-content: center;
+}
+
+.officer {
+  display: grid;
+  grid-template-columns: 150px auto;
+  grid-template-areas: "pic content";
+  align-items: start; /* Align the top of the text with the top of the image */
+  gap: 1em; /* Space between picture and text content */
+  padding-bottom: 2em; /* Space at the bottom for the divider */
+  border-bottom: 1px solid #ccc; /* Divider line */
+}
+
+
+.officer img {
+  grid-area: pic;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin: 0;
+}
+
+/* Combine role, name, and description into one grid area */
+.officer .content {
+  grid-area: content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.5em; /* Adjust this value to control spacing between role, name, and description */
+}
+
+.officer .role {
+  font-size: 0.85em;
+  text-transform: uppercase;
+  color: #555;
+  margin: 0;
+}
+
+.officer .name {
+  font-weight: bold;
+  margin: 0;
+}
+
+.officer .description {
+  text-align: left;
+  font-size: 0.9em;
+  color: #333;
+  margin: 0;
+}
+
+
+/* Adjustments for larger screens */
+@media (min-width: 640px) {
+  .officer {
+    grid-template-areas: 
+      "pic name"
+      "pic role"
+      "pic desc";
+    text-align: left;
+  }
+
+  .officer .name,
+  .officer .role,
+  .officer .description {
+    text-align: left;
+    padding-left: 1em; /* Padding to align text nicely next to the image */
+  }
+}
+
+.article-panel {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}

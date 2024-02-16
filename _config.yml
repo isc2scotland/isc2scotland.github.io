@@ -6,6 +6,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+permalink: /about/
+
 header_pages:
   - about.markdown
   - officers.markdown

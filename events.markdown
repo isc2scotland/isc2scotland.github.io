@@ -4,20 +4,8 @@ title: Meetings
 permalink: /Meetings/
 ---
 
-## ISC2 Scotland Chapter Officers Meetings
+## ISC2 Scotland Chapter Events and Meetings
 
-<details markdown="1">
-<summary>Dates and Times</summary>
-- Thu, 25 Jan '24 18:00
-- Thu, 04 Jan '24 18:00
-- Thu, 21 Dec '23 18:00
-...
-</details>
-</p>
-
-## ISC2 Scotland Members Meetings
-
-<details markdown="1">
-<summary>Dates and Times</summary>
-- Thu, 6th July '23 18:00 (Intro Meeting)
-</details>
+<!-- Include Elfsight widget -->
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-59af36ab-2033-4b97-8783-52f7aeab8a42" data-elfsight-app-lazy></div>
