@@ -19,33 +19,15 @@
   white-space: nowrap; /* Prevents the link text from wrapping into multiple lines */
 }
 
-.responsive-iframe-container {
-  position: relative;
-  width: 100%; /* Full width */
-  /* Remove padding-bottom here if the height of the form is not fixed */
-}
-
-.responsive-iframe-container iframe {
-  position: relative; /* Changed from absolute to relative */
-  width: 100%; /* Full width */
-  height: auto; /* Start with auto height */
-  min-height: 800px; /* Set a minimum height that can fit the form */
-  border: none; /* Remove iframe border */
-}
-
 .iframe-container {
-  overflow: hidden;
-  padding-top: 56.25%;
-  position: relative;
+  width: 100%; /* Full width of the container */
+  margin: auto; /* Center the iframe if it's not as wide as the container */
 }
 
 .iframe-container iframe {
- border: 0;
- height: 100%;
- left: 0;
- position: absolute;
- top: 0;
- width: 100%;
+  width: 100%; /* Full width of the iframe */
+  height: 1200px; /* Start with a large height to ensure it shows the full form */
+  border: none; /* Remove the border for a cleaner look */
 }
 
 .profile-picture {
