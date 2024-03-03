@@ -54,6 +54,9 @@
   border-bottom: 1px solid #ccc; /* Divider line */
 }
 
+.officer:not(:first-child) {
+  padding-top: 2em; /* Space at the top of the divider (excluding top element where there is no divider) */
+}
 
 .officer img {
   grid-area: pic;
@@ -91,7 +94,6 @@
   color: #333;
   margin: 0;
 }
-
 
 /* Adjustments for larger screens */
 @media (min-width: 640px) {
