@@ -4,50 +4,30 @@ title: Officers
 permalink: /Officers/
 ---
 
-### President
-[Manish Shah](https://linkedin.com/in/manishcissp){:target="\_blank"}
-<br />
-### Vice President
-[James Kwaan](https://linkedin.com/in/james-k-5201384){:target="\_blank"}
-<br />
-### Secretary
-<br />
-<br />
-### Membership Chair
-[Gary Scullion](https://linkedin.com/in/gary-scullion-ism){:target="\_blank"}
-<br />
-### Treasurer
-[Mark Almeida-Cardy](https://linkedin.com/in/mark-ac){:target="\_blank"}
-<br />
-<br />
-<br />
-## Meetings
+<div class="officer">
+  <p class="role">President</p>
+  <p class="name"><a href="https://linkedin.com/in/manishcissp" target="_blank">Manish Shah</a></p>
+  <img src="/assets/profiles/manish.jpg" class="profile-picture">
+  <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi efficitur, vehicula nunc a, hendrerit nisl. Nullam in felis et sem mollis commodo non vitae quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+</div>
 
-### ISC2 Scotland Chapter Officers Meetings
+<div class="officer">
+  <p class="role">Vice President</p>
+  <p class="name"><a href="https://linkedin.com/in/james-k-5201384" target="_blank">James Kwaan</a></p>
+  <img src="/assets/profiles/placeholder.jpg" class="profile-picture">
+  <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi efficitur, vehicula nunc a, hendrerit nisl. Nullam in felis et sem mollis commodo non vitae quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
+</div>
 
-<details markdown="1">
-<summary>Dates and Times</summary>
-- Thu, 25 Jan '24 18:00
-- Thu, 04 Jan '24 18:00
-- Thu, 21 Dec '23 18:00
-- Thu, 07 Dec '23 18:00
-- Thu, 23 Nov '23 18:00
-- Thu, 09 Nov '23 18:00
-- Thu, 26 Oct '23 18:00
-- Thu, 12 Oct '23 18:00
-- Thu, 28 Sep '23 18:00
-- Thu, 14 Sep '23 18:00
-- Thu, 31 Aug '23 18:00
-- Thu, 17 Aug '23 18:00
-- Thu, 03 Aug '23 18:00
-- Thu, 20 Jul '23 18:00
-</details>
+<div class="officer">
+  <p class="role">Membership Chair</p>
+  <p class="name"><a href="https://linkedin.com/in/gary-scullion-ism" target="_blank">Gary Scullion</a></p>
+  <img src="/assets/profiles/garys.jpg" class="profile-picture">
+  <p class="description">I am enthusiastic about advancing the cybersecurity field and serving on the ISC2 chapter board will allow me to make a significant impact. My background in information security has equipped me with insights and skills that I am eager to share with the community. Through this role, I aim to foster a supportive network, facilitate knowledge exchange, and contribute to the professional growth of our members. This opportunity is a way to give back to the community that has been instrumental in my career development. Moreover, I am committed to promoting diversity and inclusivity within our field, ensuring we build a resilient cybersecurity ecosystem together. Being on the board will enable me to leverage my experience for the benefit of others, drive innovation in our practices, and inspire the next generation of cybersecurity professionals.</p>
+</div>
 
-<br />
-
-### ISC2 Scotland Members Meetings
-
-<details markdown="1">
-<summary>Dates and Times</summary>
-- Thu, 6th July '23 18:00 (Intro Meeting)
-</details>
+<div class="officer">
+  <p class="role">Treasurer</p>
+  <p class="name"><a href="https://linkedin.com/in/mark-ac" target="_blank">Mark Almeida-Cardy</a></p>
+  <img src="/assets/profiles/markac.jpg" class="profile-picture">
+  <p class="description">In essence, my commitment to the ISC2 chapter in Scotland is driven by a belief in the transformative power of education and community. It's about laying down the foundational stones for future experts who will continue to innovate, protect, and lead in the realm of cybersecurity. Together, we can inspire change, encourage diversity, and build a resilient cybersecurity ecosystem for generations to come.</p>
+</div>
