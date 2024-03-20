@@ -5,6 +5,13 @@ permalink: /news/
 ---
 
 <div class="article-panel">
+    <p><strong>Highlight:</strong> FREE Entry-level Cybersecurity Training + Certification Exam.</p>
+    <a href="https://www.isc2.org/landing/1mcc" target="_blank">Click here to learn more</a>
+</div>
+
+<br />
+
+<div class="article-panel">
     <p><strong>Highlight:</strong> ISC2 reveals an 8.7% increase in the global cybersecurity workforce, now at 5.5 million. Despite this growth, a record-breaking gap of 4 million professionals remains, amid challenges like AI, economic uncertainty, and skills gaps in cloud computing security and zero trust implementation. Economic cutbacks impact cybersecurity capabilities, underscoring the need for investment in training and DEI programs.</p>
     <a href="https://www.isc2.org/Insights/2023/08/cybersecurity-is-evolving-so-are-we" target="_blank">Click here to learn more</a>
 </div>
