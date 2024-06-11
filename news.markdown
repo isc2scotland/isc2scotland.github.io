@@ -8,19 +8,23 @@ permalink: /news/
     <p><strong>ISC2 Board Elections</strong> </p>
 The ISC2 Board elections are coming, voting opens on June 18th until July 2nd. Please remember to vote! You can vote by logging in to your ISC2 account <a href="https://my.isc2.org/s/Dashboard" target="_blank"></a>
 <br />
-
-We call out one Candidate in particular, James Packer. https://www.linkedin.com/in/jpcyber/ Please consider voting for him! He is an existing Board Member seeking re-election, he has been a strong supporter of our Chapter and many other chapters.
 <br />
+
+We call out one Candidate in particular, James Packer https://www.linkedin.com/in/jpcyber/ Please consider voting for him! He is an existing Board Member seeking re-election, he has been a strong supporter of our Chapter and many other chapters.
+<br />
+<br />
+
 His vision for the future of ISC2 is:
+<br />
     1. Continued Internationalisation of ISC2
-    <br />
+<br />
     2. Widen Cyber Learning
-    <br />
+<br />
     3. Advance Member Benefits & Services
-    <br />
-    4. A Resilient ISC2, Ready For The Future
-    <br />
-    <br />
+<br />
+4. A Resilient ISC2, Ready For The Future
+<br />
+<br />
     
 His bio and full pledge are here: <a href="https://www.dropbox.com/scl/fi/355buzc671hdaqxid0vbt/Vote-For-James.pdf?rlkey=0jpa9m7rdtuqdw727oozwhiau&dl=0" target="_blank"></a>
 
