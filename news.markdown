@@ -7,11 +7,6 @@ permalink: /news/
 <div class="article-panel">
     <p><strong>UKsec Cyber Summit</strong> </p>
     <a href="https://uk.cyberseries.io/overview/" target="_blank">Click here to learn more</a>
-    #UKsec 2024 is your chance to share your experience with top information security professionals from across the UK and benefit from exchanging knowledge and advice on how security teams should operate when dealing with increasingly complex supply chains.
-<br />
-Hear exclusive keynotes from trail-blazing industry execs as well as having the chance to take part in interactive panel debates, benchmarking your approach to cyber security against peers. Take part in group discussions to target specific cyber security pain points and benefit from in-depth case studies, relevant to your sector with tangible, actionable insights.
-<br />
-Keen to learn more? View the Agenda and the Speaker Line-Up for more details on what to expect at this year’s UKsec Summit!
 </div>
 
 <br />
